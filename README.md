@@ -10,7 +10,7 @@
 
 ## 📖 Sobre o Projeto
 
-O **Campos Bank** é um projeto fictício e autoral desenvolvido por **Danilo Campos** para consolidar os conhecimentos do primeiro módulo do bootcamp **Java - Primeiros Passos** da **DIO**.
+O **Campos Bank** é um projeto fictício e autoral desenvolvido por **Danilo Campos** para consolidar os conhecimentos do primeiro módulo do bootcamp **Riachuelo - Primeiros Passos com Java** da **DIO**.
 
 O foco principal foi a aplicação prática da linguagem *Java* e de conceitos de **Arquitetura de Software** e **Programação Orientada a Objetos (POO)**.
 
