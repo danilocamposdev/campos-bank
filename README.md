@@ -53,7 +53,7 @@ Embora seja uma aplicação CLI (Command Line Interface), houve uma atenção es
 
 ```bash
 # Clone o repositório
-git clone 
+git clone https://github.com/danilocamposdev/campos-bank.git
 
 # Entre na pasta
 cd campos-bank
